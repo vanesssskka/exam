@@ -31,3 +31,11 @@ c = 12345
 9) Приведите пример Function Expression и Function Declaration. Укажите в чем разница.  
 Ответ:  Function Expression - создание функции при помощи переменной. const sum = function (){}
 Function Declaration  - создание функции через function sum (){} А разница заключается в том, что при  Function Expression  не происходит пробрасывание. 
+
+10) const cslad = {
+name: "sclad" ,
+shelves: 10,
+floor: 5
+console.log(sclad)
+
+
